@@ -1,0 +1,1 @@
+run the test command: npm run regression
